@@ -45,5 +45,13 @@ list of web development related news sources, thought leaders and resources
 [https://whatdoesmysitecost.com/](https://whatdoesmysitecost.com/)  
 [http://devdocs.io/](http://devdocs.io/)  
 
+## Tools
+
+[http://codepen.io/](http://codepen.io/)  
+[https://code.visualstudio.com/](https://code.visualstudio.com/)  
+[https://hyper.is/](https://hyper.is/)  (for Windows users)  
+
+
+
 
 Note: If you feel like something missing, feel free to contribute.
