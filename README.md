@@ -3,6 +3,7 @@ list of web development related news sources, thought leaders and resources
 
 ## Twitter accounts
 
+### Persons
 [https://twitter.com/jasnell](https://twitter.com/jasnell)  
 [https://twitter.com/rob_dodson](https://twitter.com/rob_dodson)  
 [https://twitter.com/jaffathecake](https://twitter.com/jaffathecake)  
@@ -20,6 +21,13 @@ list of web development related news sources, thought leaders and resources
 [https://twitter.com/snookca](https://twitter.com/snookca)  
 [https://twitter.com/Souders](https://twitter.com/Souders)  
 
+### Sites/communities
+[https://twitter.com/sitepointdotcom](https://twitter.com/sitepointdotcom)
+[https://twitter.com/JavaScriptDaily](https://twitter.com/JavaScriptDaily)
+[https://twitter.com/CSSWeekly](https://twitter.com/CSSWeekly)
+[https://twitter.com/Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks)
+[https://twitter.com/smashingmag](https://twitter.com/smashingmag)
+
 ## Podcasts
 
 [https://player.fm/series/coding-blocks-podcast](https://player.fm/series/coding-blocks-podcast)  
@@ -28,6 +36,14 @@ list of web development related news sources, thought leaders and resources
 [https://player.fm/series/software-engineering-daily-90508](https://player.fm/series/software-engineering-daily-90508)  
 [https://player.fm/series/the-changelog](https://player.fm/series/the-changelog)  
 [https://player.fm/series/the-versioning-show](https://player.fm/series/the-versioning-show)  
+
+## Web pages
+
+[http://a11yproject.com/patterns/](http://a11yproject.com/patterns/)  
+[https://www.sitepoint.com/web-foundations/mime-types-complete-list/](https://www.sitepoint.com/web-foundations/mime-types-complete-list/)  
+[https://csstriggers.com/](https://csstriggers.com/)  
+[https://whatdoesmysitecost.com/](https://whatdoesmysitecost.com/)  
+[http://devdocs.io/](http://devdocs.io/)  
 
 
 Note: If you feel like something missing, feel free to contribute.
