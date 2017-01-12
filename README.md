@@ -22,11 +22,11 @@ list of web development related news sources, thought leaders and resources
 [https://twitter.com/Souders](https://twitter.com/Souders)  
 
 ### Sites/communities
-[https://twitter.com/sitepointdotcom](https://twitter.com/sitepointdotcom)
-[https://twitter.com/JavaScriptDaily](https://twitter.com/JavaScriptDaily)
-[https://twitter.com/CSSWeekly](https://twitter.com/CSSWeekly)
-[https://twitter.com/Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks)
-[https://twitter.com/smashingmag](https://twitter.com/smashingmag)
+[https://twitter.com/sitepointdotcom](https://twitter.com/sitepointdotcom)  
+[https://twitter.com/JavaScriptDaily](https://twitter.com/JavaScriptDaily)  
+[https://twitter.com/CSSWeekly](https://twitter.com/CSSWeekly)  
+[https://twitter.com/Real_CSS_Tricks](https://twitter.com/Real_CSS_Tricks)  
+[https://twitter.com/smashingmag](https://twitter.com/smashingmag)  
 
 ## Podcasts
 
