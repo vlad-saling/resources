@@ -51,7 +51,9 @@ list of web development related news sources, thought leaders and resources
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
 [https://hyper.is/](https://hyper.is/)  (for Windows users)  
 
+## Lectures
 
+[Crockford on JavaScript lectures 1-8](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
 
 
 Note: If you feel like something missing, feel free to contribute.
