@@ -49,7 +49,7 @@ list of web development related news sources, thought leaders and resources
 
 [http://codepen.io/](http://codepen.io/)  
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
-[https://hyper.is/](https://hyper.is/)  (for Windows users)  
+[https://hyper.is/](https://hyper.is/)  (Terminal emulator for Windows users)  
 
 ## Lectures
 
