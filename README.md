@@ -54,6 +54,6 @@ list of web development related news sources, thought leaders and resources
 ## Lectures
 
 [Crockford on JavaScript lectures 1-8](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
-
+[A11ycasts with Rod Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
 Note: If you feel like something missing, feel free to contribute.
