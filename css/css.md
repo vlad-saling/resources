@@ -49,3 +49,7 @@ resources and notes on css
 ## Further resources
 
 - [twitter folk](https://github.com/vlad-saling/web/blob/master/README.md#twitter-accounts)
+
+## Examples
+
+[selectors](https://github.com/vlad-saling/web/blob/master/css/selectors.css)

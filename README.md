@@ -59,4 +59,8 @@ list of web development related news sources, thought leaders and resources
 [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 [https://landing.google.com/sre/book/index.html](https://landing.google.com/sre/book/index.html)
 
+## More
+
+[more notes for CSS](https://github.com/vlad-saling/web/blob/master/css/css.md)
+
 Note: If you feel like something missing, feel free to contribute.
