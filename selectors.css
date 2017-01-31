@@ -1,0 +1,39 @@
+/* 
+
+Selectors excercise
+
+<p class="foo"><a href="#">test</a></p>
+<p class="foo"><span><a href="#">test</a></span></p>
+<p class="foo"><span><span>test</span></span></p>
+<p id="wrap" class="bar purple bg"><span class="">test</span</p>
+
+*/
+
+:root {
+  font-size: 2em;
+}
+.foo * a {
+  color: blue;
+}
+
+.foo > a {
+  color: red;
+}
+
+.bar.bar {
+  color: #bada55;
+}
+
+.purple {
+  color: purple;
+}
+
+a[id=wrap] {
+  background-color: black;
+}
+
+#wrap.bg {
+  background-color: purple;
+  color: currentColor;
+}
+
