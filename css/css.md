@@ -8,22 +8,21 @@ resources and notes on css
 - Triggers: https://csstriggers.com/
 - CPU vs GPU rendering
 
-## Architectures
-
-- BEM
-- SMACSS
-- OOCSS
-- ITCSS
-- Atomic design
-- CSS Module
-- Styled Components
-
 ## Methodologies
 
-- mobile first
+- [BEM](http://getbem.com/introduction/)
+- [SMACSS](https://smacss.com/)
+- [OOCSS](http://oocss.org/)
+- [SUITCSS](http://suitcss.github.io/)
+- [ITCSS](http://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528)
+- [Atomic](https://acss.io/)
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [Styled Components](https://github.com/styled-components/styled-components)
+
 
 ## Responsive techniques
 
+- mobile first
 - Grids
 
 ## CSS Processor
