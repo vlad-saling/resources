@@ -49,4 +49,4 @@ resources and notes on css
 
 ## Further resources
 
-- twitter folk
+- [twitter folk](https://github.com/vlad-saling/web/blob/master/README.md#twitter-accounts)
