@@ -52,4 +52,4 @@ resources and notes on css
 
 ## Examples
 
-[selectors](https://github.com/vlad-saling/web/blob/master/css/selectors.css)
+- [selectors](https://github.com/vlad-saling/web/blob/master/css/selectors.css)
