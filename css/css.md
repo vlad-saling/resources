@@ -36,6 +36,8 @@ resources and notes on css
 - custom properties
 - filters
 - animation
+- flex
+- css grids
 
 ## CSS Analytics
 
