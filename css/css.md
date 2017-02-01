@@ -16,6 +16,7 @@ resources and notes on css
 - [SUITCSS](http://suitcss.github.io/)
 - [ITCSS](http://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528)
 - [Atomic](https://acss.io/)
+- Predix
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Styled Components](https://github.com/styled-components/styled-components)
 
