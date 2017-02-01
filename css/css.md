@@ -7,6 +7,7 @@ resources and notes on css
 - [Layers](https://developers.google.com/web/fundamentals/performance/rendering/)
 - [Layer change triggers](https://csstriggers.com/)
 - [CPU vs GPU rendering](https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
+- [critical css](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
 
 ## Methodologies
 
