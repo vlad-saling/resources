@@ -4,35 +4,41 @@ resources and notes on css
 ## Performance
 
 - Selector (specificity, parsing, unqualified selector)
-- Layers: https://developers.google.com/web/fundamentals/performance/rendering/
-- Triggers: https://csstriggers.com/
-- CPU vs GPU rendering
+- [Layers](https://developers.google.com/web/fundamentals/performance/rendering/)
+- [Layer change triggers](https://csstriggers.com/)
+- [CPU vs GPU rendering](https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/)
 
 ## Methodologies
 
+- [overview](https://medium.com/@ilpeach/css-architecture-for-ui-developers-26872cbb5c40#.ac5dnbj5h)
 - [BEM](http://getbem.com/introduction/)
 - [SMACSS](https://smacss.com/)
 - [OOCSS](http://oocss.org/)
 - [SUITCSS](http://suitcss.github.io/)
 - [ITCSS](http://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528)
 - [Atomic](https://acss.io/)
-- Predix
+- [Predix](https://medium.com/ge-design/ges-predix-design-system-8236d47b0891#.wajw6mhgt)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Styled Components](https://github.com/styled-components/styled-components)
 
 
 ## Responsive techniques
 
-- mobile first
-- Grids
+- [mobile first](https://codemyviews.com/blog/mobilefirst)
+
 
 ## CSS Processor
 
-- Less
-- Sass
-- PostCSS
+- [Less](http://lesscss.org/)
+- [Sass](http://sass-lang.com/)
+- [PostCSS](http://postcss.org/)
 
-## Advanced CSS
+## CSS Analysis
+
+- [css stats](http://cssstats.com/)
+- [unused css](https://github.com/purifycss/purifycss)
+
+## New-ish CSS
 
 - custom properties
 - filters
@@ -40,15 +46,11 @@ resources and notes on css
 - flex
 - css grids
 
-## CSS Analytics
-
-- css stats
-- unused css
-
 ## Common libs
 
 - reset
 - normalize
+- compass
 - boostrap
 - foundation
 - material ui
@@ -57,6 +59,12 @@ resources and notes on css
 ## Further resources
 
 - [twitter folk](https://github.com/vlad-saling/web/blob/master/README.md#twitter-accounts)
+
+## Topics
+
+[End of global CSS](https://medium.com/seek-developers/the-end-of-global-css-90d2a4a06284#.488q8b2h6)
+[CSS Evolution: From CSS, SASS, BEM, CSS Modules to Styled Components](https://m.alphasights.com/css-evolution-from-css-sass-bem-css-modules-to-styled-components-d4c1da3a659b#.ten8fq2rx)
+
 
 ## Examples
 
