@@ -49,12 +49,12 @@ resources and notes on css
 
 ## Common libs
 
-- reset
-- normalize
-- compass
-- boostrap
-- foundation
-- material ui
+- [Reset](http://meyerweb.com/eric/tools/css/reset/)
+- [Normalize](https://necolas.github.io/normalize.css/)
+- [Compass](http://compass-style.org/)
+- [Twitter Boostrap](http://getbootstrap.com/)
+- [Foundation](http://foundation.zurb.com/)
+- [Material](https://getmdl.io/index.html)
 
 
 ## Further resources
