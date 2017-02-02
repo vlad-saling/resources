@@ -58,6 +58,7 @@ list of web development related news sources, thought leaders and resources
 [Aria rules](http://w3c.github.io/aria-in-html/#rule1)  
 [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 [https://landing.google.com/sre/book/index.html](https://landing.google.com/sre/book/index.html)
+[On gzipping and minification](https://css-tricks.com/the-difference-between-minification-and-gzipping/)
 
 ## More
 
