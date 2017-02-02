@@ -40,6 +40,7 @@ resources and notes on css
 
 - [css stats](http://cssstats.com/)
 - [unused css](https://github.com/purifycss/purifycss)
+- [unused css trough postCSS](https://github.com/simlrh/postcss-modules-dead-css)
 
 ## New-ish CSS
 
