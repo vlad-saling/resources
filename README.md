@@ -63,6 +63,6 @@ list of web development related news sources, thought leaders and resources
 
 ## More
 
-[more notes for CSS](https://github.com/vlad-saling/web/blob/master/css/css.md)
+[CSS specific resources](https://github.com/vlad-saling/web/blob/master/css/css.md)
 
 Note: If you feel like something missing, feel free to contribute.
