@@ -28,11 +28,13 @@ resources and notes on css
 - [Mobile first](https://codemyviews.com/blog/mobilefirst)
 
 
-## CSS Processor
+## CSS Processor and enhancements 
 
 - [Less](http://lesscss.org/)
 - [Sass](http://sass-lang.com/)
 - [PostCSS](http://postcss.org/)
+
+- [EQCSS]http://elementqueries.com/
 
 ## CSS Analysis
 
