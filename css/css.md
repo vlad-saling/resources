@@ -23,9 +23,9 @@ resources and notes on css
 - [Styled Components](https://github.com/styled-components/styled-components)
 
 
-## Responsive techniques
+## Techniques
 
-- [mobile first](https://codemyviews.com/blog/mobilefirst)
+- [Mobile first](https://codemyviews.com/blog/mobilefirst)
 
 
 ## CSS Processor
