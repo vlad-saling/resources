@@ -48,7 +48,7 @@ resources and notes on css
 - filters
 - animation
 - flex
-- css grids
+- [css grids](https://www.youtube.com/watch?v=Felq4z_rdPQ)
 
 ## Common libs
 
