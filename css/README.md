@@ -49,6 +49,7 @@ resources and notes on css
 - animation
 - flex
 - [css grids](https://www.youtube.com/watch?v=Felq4z_rdPQ)
+- [css grids #2](https://developers.google.com/web/updates/2017/01/css-grid)
 
 ## Common libs
 
