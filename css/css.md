@@ -59,11 +59,6 @@ resources and notes on css
 - [Foundation](http://foundation.zurb.com/)
 - [Material](https://getmdl.io/index.html)
 
-
-## Further resources
-
-- [twitter folk](https://github.com/vlad-saling/web/blob/master/README.md#twitter-accounts)
-
 ## Topics
 
 [End of global CSS](https://medium.com/seek-developers/the-end-of-global-css-90d2a4a06284#.488q8b2h6)
