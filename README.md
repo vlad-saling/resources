@@ -38,14 +38,6 @@ list of web development related news sources, thought leaders and resources
 [https://player.fm/series/the-versioning-show](https://player.fm/series/the-versioning-show)  
 [https://player.fm/series/shoptalk-19036](https://player.fm/series/shoptalk-19036)
 
-## Web pages
-
-[http://a11yproject.com/patterns/](http://a11yproject.com/patterns/)  
-[https://www.sitepoint.com/web-foundations/mime-types-complete-list/](https://www.sitepoint.com/web-foundations/mime-types-complete-list/)  
-[https://csstriggers.com/](https://csstriggers.com/)  
-[https://whatdoesmysitecost.com/](https://whatdoesmysitecost.com/)  
-[http://devdocs.io/](http://devdocs.io/)  
-
 ## Tools
 
 [http://codepen.io/](http://codepen.io/)  
@@ -55,6 +47,8 @@ list of web development related news sources, thought leaders and resources
 ## General resources
 
 [https://landing.google.com/sre/book/index.html](https://landing.google.com/sre/book/index.html)  
+[https://www.sitepoint.com/web-foundations/mime-types-complete-list/](https://www.sitepoint.com/web-foundations/mime-types-complete-list/)  
+[http://devdocs.io/](http://devdocs.io/)  
 
 
 ## More on..
