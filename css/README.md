@@ -33,7 +33,6 @@ resources and notes on css
 - [Less](http://lesscss.org/)
 - [Sass](http://sass-lang.com/)
 - [PostCSS](http://postcss.org/)
-
 - [EQCSS](http://elementqueries.com/)
 
 ## CSS Analysis
