@@ -34,7 +34,7 @@ resources and notes on css
 - [Sass](http://sass-lang.com/)
 - [PostCSS](http://postcss.org/)
 
-- [EQCSS]http://elementqueries.com/
+- [EQCSS](http://elementqueries.com/)
 
 ## CSS Analysis
 
