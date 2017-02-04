@@ -59,9 +59,9 @@ list of web development related news sources, thought leaders and resources
 
 ## More on..
 
-[CSS](https://github.com/vlad-saling/web/blob/master/css/README.md)
-[Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)
-[Accessibility](https://github.com/vlad-saling/web/blob/master/accessibility/README.md)
-[JS](https://github.com/vlad-saling/web/blob/master/js/README.md)
+[CSS](https://github.com/vlad-saling/web/blob/master/css/README.md)  
+[Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)  
+[Accessibility](https://github.com/vlad-saling/web/blob/master/accessibility/README.md)  
+[JS](https://github.com/vlad-saling/web/blob/master/js/README.md)  
 
 Note: If you feel like something missing, feel free to contribute.
