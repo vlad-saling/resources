@@ -36,6 +36,7 @@ list of web development related news sources, thought leaders and resources
 [https://player.fm/series/software-engineering-daily-90508](https://player.fm/series/software-engineering-daily-90508)  
 [https://player.fm/series/the-changelog](https://player.fm/series/the-changelog)  
 [https://player.fm/series/the-versioning-show](https://player.fm/series/the-versioning-show)  
+[https://player.fm/series/shoptalk-19036](https://player.fm/series/shoptalk-19036)
 
 ## Web pages
 
@@ -65,5 +66,7 @@ list of web development related news sources, thought leaders and resources
 
 [CSS](https://github.com/vlad-saling/web/blob/master/css/README.md)
 [Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)
+[Accessibility](https://github.com/vlad-saling/web/blob/master/accessibility/README.md)
+[JS](https://github.com/vlad-saling/web/blob/master/js/README.md)
 
 Note: If you feel like something missing, feel free to contribute.
