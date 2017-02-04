@@ -58,12 +58,12 @@ list of web development related news sources, thought leaders and resources
 [Aria rules](http://w3c.github.io/aria-in-html/#rule1)  
 [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 [https://landing.google.com/sre/book/index.html](https://landing.google.com/sre/book/index.html)  
-[On gzipping and minification](https://css-tricks.com/the-difference-between-minification-and-gzipping/)
-[Browser rendering optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
+
 [list of Aria roles](https://www.w3.org/TR/wai-aria/roles#widget_roles)
 
-## More
+## More on..
 
-[CSS specific resources](https://github.com/vlad-saling/web/blob/master/css/README.md)
+[CSS](https://github.com/vlad-saling/web/blob/master/css/README.md)
+[Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)
 
 Note: If you feel like something missing, feel free to contribute.
