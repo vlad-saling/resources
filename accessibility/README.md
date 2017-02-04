@@ -9,6 +9,7 @@
 ## Resources
 [Aria rules](http://w3c.github.io/aria-in-html/#rule1)  
 [list of Aria roles](https://www.w3.org/TR/wai-aria/roles#widget_roles)
+[http://a11yproject.com/patterns/](http://a11yproject.com/patterns/)  
 
 ## Tools
 [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)  
