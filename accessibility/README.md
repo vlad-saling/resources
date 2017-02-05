@@ -16,4 +16,8 @@
 [aXe](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)  
 [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 
+## Legislation
 
+[U.S. Section 508 web requirements checklist](http://webaim.org/standards/508/checklist)  
+[Accessibility related legislation #1](https://en.wikipedia.org/wiki/Web_accessibility)  
+[Accessibility related legislation #2](http://jimthatcher.com/book2/chapter17.html)
