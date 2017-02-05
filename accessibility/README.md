@@ -8,7 +8,8 @@
 
 ## Resources
 [Aria rules](http://w3c.github.io/aria-in-html/#rule1)  
-[list of Aria roles](https://www.w3.org/TR/wai-aria/roles#widget_roles)
+[list of Aria roles](https://www.w3.org/TR/wai-aria/roles#widget_roles)  
+[Aria Design Patterns and Widgets](https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex)  
 [http://a11yproject.com/patterns/](http://a11yproject.com/patterns/)  
 
 ## Tools
