@@ -1,6 +1,14 @@
 # web
 list of web development related news sources, thought leaders and resources
 
+## Specific
+
+[CSS](https://github.com/vlad-saling/web/blob/master/css/README.md)  
+[Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)  
+[Accessibility](https://github.com/vlad-saling/web/blob/master/accessibility/README.md)  
+[JS](https://github.com/vlad-saling/web/blob/master/js/README.md)  
+
+
 ## Twitter accounts
 
 ### Persons
@@ -51,11 +59,5 @@ list of web development related news sources, thought leaders and resources
 [http://devdocs.io/](http://devdocs.io/)  
 
 
-## More on..
-
-[CSS](https://github.com/vlad-saling/web/blob/master/css/README.md)  
-[Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)  
-[Accessibility](https://github.com/vlad-saling/web/blob/master/accessibility/README.md)  
-[JS](https://github.com/vlad-saling/web/blob/master/js/README.md)  
 
 Note: If you feel like something missing, feel free to contribute.
