@@ -1,7 +1,7 @@
 # Accesibility
 
 ## Articles
-[Maintaining Accessibility in a Responsive World](https://www.filamentgroup.com/lab/accessible-responsive.html)
+[Maintaining Accessibility in a Responsive World](https://www.filamentgroup.com/lab/accessible-responsive.html)  
 [How to Design for Color Blindness](https://medium.theuxblog.com/how-to-design-for-color-blindness-a6f083b08e12#.cqtkxdwtp)
 
 ## Courses/tutorials
