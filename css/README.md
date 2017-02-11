@@ -40,6 +40,7 @@ resources and notes on css
 - [css stats](http://cssstats.com/)
 - [unused css](https://github.com/purifycss/purifycss)
 - [unused css trough postCSS](https://github.com/simlrh/postcss-modules-dead-css)
+- [A CSS redundancy analyzer that analyzes redundancy](https://github.com/zmoazeni/csscss)  
 
 ## New-ish CSS
 
