@@ -62,7 +62,7 @@ resources and notes on css
 
 ## Topics
 
-[End of global CSS](https://medium.com/seek-developers/the-end-of-global-css-90d2a4a06284#.488q8b2h6)
+[End of global CSS](https://medium.com/seek-developers/the-end-of-global-css-90d2a4a06284#.488q8b2h6)  
 [CSS Evolution: From CSS, SASS, BEM, CSS Modules to Styled Components](https://m.alphasights.com/css-evolution-from-css-sass-bem-css-modules-to-styled-components-d4c1da3a659b#.ten8fq2rx)
 
 
