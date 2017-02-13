@@ -7,6 +7,9 @@
 ## Courses/tutorials
 [Crockford on JavaScript lectures 1-8](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)  
 
+## Performance
+[JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.6f6fcp3sz) :star:
+
 
 
 
