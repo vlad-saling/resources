@@ -54,7 +54,7 @@ resources and notes on css
 - flex
 - [css grids](https://www.youtube.com/watch?v=Felq4z_rdPQ)
 - [css grids #2](https://developers.google.com/web/updates/2017/01/css-grid)
-- [css grids #3](https://rachelandrew.co.uk/archives/2015/02/04/css-grid-layout-creating-complex-grids/)
+- [CSS Grid Layout - creating complex grids](https://rachelandrew.co.uk/archives/2015/02/04/css-grid-layout-creating-complex-grids/)
 
 ## Common libs
 
