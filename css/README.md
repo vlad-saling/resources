@@ -52,6 +52,7 @@ resources and notes on css
 - filters
 - animation
 - flex
+- [background-repeat round and space](https://css-tricks.com/almanac/properties/b/background-repeat/)
 - [css grids](https://www.youtube.com/watch?v=Felq4z_rdPQ)
 - [css grids #2](https://developers.google.com/web/updates/2017/01/css-grid)
 - [CSS Grid Layout - creating complex grids](https://rachelandrew.co.uk/archives/2015/02/04/css-grid-layout-creating-complex-grids/)
