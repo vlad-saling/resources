@@ -1,5 +1,7 @@
 ## To check:
 
+https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8
+
 https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.s6w8i0v9t
 
 https://www.filamentgroup.com/lab/accessible-responsive.html
