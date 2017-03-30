@@ -1,6 +1,14 @@
 # web
 list of web development related news sources, thought leaders and resources
 
+## Specific
+
+[CSS](https://github.com/vlad-saling/web/blob/master/css/README.md)  
+[Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)  
+[Accessibility](https://github.com/vlad-saling/web/blob/master/accessibility/README.md)  
+[JS](https://github.com/vlad-saling/web/blob/master/js/README.md)  
+
+
 ## Twitter accounts
 
 ### Persons
@@ -36,14 +44,7 @@ list of web development related news sources, thought leaders and resources
 [https://player.fm/series/software-engineering-daily-90508](https://player.fm/series/software-engineering-daily-90508)  
 [https://player.fm/series/the-changelog](https://player.fm/series/the-changelog)  
 [https://player.fm/series/the-versioning-show](https://player.fm/series/the-versioning-show)  
-
-## Web pages
-
-[http://a11yproject.com/patterns/](http://a11yproject.com/patterns/)  
-[https://www.sitepoint.com/web-foundations/mime-types-complete-list/](https://www.sitepoint.com/web-foundations/mime-types-complete-list/)  
-[https://csstriggers.com/](https://csstriggers.com/)  
-[https://whatdoesmysitecost.com/](https://whatdoesmysitecost.com/)  
-[http://devdocs.io/](http://devdocs.io/)  
+[https://player.fm/series/shoptalk-19036](https://player.fm/series/shoptalk-19036)
 
 ## Tools
 
@@ -51,16 +52,12 @@ list of web development related news sources, thought leaders and resources
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
 [https://hyper.is/](https://hyper.is/)  (Terminal emulator for Windows users)  
 
-## Resources
+## General resources
 
-[Crockford on JavaScript lectures 1-8](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)  
-[A11ycasts with Rod Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)  
-[Aria rules](http://w3c.github.io/aria-in-html/#rule1)  
-[Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-[https://landing.google.com/sre/book/index.html](https://landing.google.com/sre/book/index.html)
+[https://landing.google.com/sre/book/index.html](https://landing.google.com/sre/book/index.html)  
+[https://www.sitepoint.com/web-foundations/mime-types-complete-list/](https://www.sitepoint.com/web-foundations/mime-types-complete-list/)  
+[http://devdocs.io/](http://devdocs.io/)  
+[HTML reference](http://htmlreference.io/)
 
-## More
-
-[more notes for CSS](https://github.com/vlad-saling/web/blob/master/css/css.md)
 
 Note: If you feel like something missing, feel free to contribute.
