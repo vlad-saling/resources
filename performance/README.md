@@ -10,7 +10,5 @@
 ## Courses/tutorials
 [Browser rendering optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860)  
 
-## Tools
-[GC Lighthouse - Auditing, performance metrics, and best practices for Progressive Web App](https://github.com/GoogleChrome/lighthouse)  
-[https://whatdoesmysitecost.com/](https://whatdoesmysitecost.com/)  
+
 
