@@ -47,11 +47,6 @@ list of web development related news sources, thought leaders and resources
 [https://player.fm/series/the-versioning-show](https://player.fm/series/the-versioning-show)  
 [https://player.fm/series/shoptalk-19036](https://player.fm/series/shoptalk-19036)
 
-## Tools
-
-[http://codepen.io/](http://codepen.io/)  
-[https://code.visualstudio.com/](https://code.visualstudio.com/)  
-[https://hyper.is/](https://hyper.is/)  (Terminal emulator for Windows users)  
 
 ## General resources
 
