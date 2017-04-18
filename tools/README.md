@@ -9,3 +9,10 @@ resources and notes on tools
 ## Design
 
 [https://iconverticons.com/online/](https://iconverticons.com/online/)
+
+
+## Development
+
+[http://codepen.io/](http://codepen.io/)  
+[https://code.visualstudio.com/](https://code.visualstudio.com/)  
+[https://hyper.is/](https://hyper.is/)  (Terminal emulator for Windows users)  
