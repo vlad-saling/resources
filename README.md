@@ -54,6 +54,7 @@ list of web development related news sources, thought leaders and resources
 [https://www.sitepoint.com/web-foundations/mime-types-complete-list/](https://www.sitepoint.com/web-foundations/mime-types-complete-list/)  
 [http://devdocs.io/](http://devdocs.io/)  
 [HTML reference](http://htmlreference.io/)
+[https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
 
 Note: If you feel like something missing, feel free to contribute.
