@@ -53,7 +53,7 @@ list of web development related news sources, thought leaders and resources
 [https://landing.google.com/sre/book/index.html](https://landing.google.com/sre/book/index.html)  
 [https://www.sitepoint.com/web-foundations/mime-types-complete-list/](https://www.sitepoint.com/web-foundations/mime-types-complete-list/)  
 [http://devdocs.io/](http://devdocs.io/)  
-[HTML reference](http://htmlreference.io/)
+[HTML reference](http://htmlreference.io/)  
 [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
 
