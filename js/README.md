@@ -12,6 +12,7 @@
 
 ## Tutorials
 [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step/)
+[Vuex](https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
 
 ## Tooling
 
