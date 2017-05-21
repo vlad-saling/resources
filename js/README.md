@@ -13,4 +13,8 @@
 ## Tutorials
 [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step/)
 
+## Tooling
+
+[npm install options](https://docs.npmjs.com/cli/install)
+
 
