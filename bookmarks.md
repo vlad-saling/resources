@@ -1,5 +1,13 @@
 ## To check:
 
+https://www.youtube.com/watch?v=n0RZbTGf6uQ
+
+https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+https://blog.logrocket.com/advanced-vue-js-concepts-mixins-custom-directives-filters-transitions-and-state-management-ca6955905156
+
+https://www.codementor.io/vuejsdevelopers/4-important-changes-in-vue-js-2-4-0-a2emczrl0?utm_content=buffer2d313&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
 https://dev.to/mxcoder/google-io-for-web-development
 
 https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8
