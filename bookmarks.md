@@ -1,4 +1,13 @@
-## To check:
+## Courses:
+
+- https://es6.io/
+- https://www.udacity.com/course/web-accessibility--ud891
+- https://courses.edx.org/courses/course-v1:Microsoft+DEV201x+1T2016/courseware/d4f857db4db944ffbdf00a192e133b40/b3abb72b80c0473c852d96dc2322bc82/
+- https://javascript30.com/
+- https://www.udemy.com/ecmascript2015/
+- https://www.udacity.com/course/web-accessibility--ud891
+
+## Articles:
 
 https://www.youtube.com/watch?v=n0RZbTGf6uQ
 
