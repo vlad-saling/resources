@@ -63,4 +63,4 @@
 ## Read/watched:
 
 - [4 Important Changes In Vue.js 2.4.0](https://www.codementor.io/vuejsdevelopers/4-important-changes-in-vue-js-2-4-0-a2emczrl0?utm_content=buffer2d313&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
--[Mark Robbins | Modern CSS and interactive email | CSS Day 2016](https://vimeo.com/181481382)
+- [Mark Robbins | Modern CSS and interactive email | CSS Day 2016](https://vimeo.com/181481382)
