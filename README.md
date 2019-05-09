@@ -7,7 +7,8 @@ list of web development related news sources, thought leaders and resources
 [Performance](https://github.com/vlad-saling/web/blob/master/performance/README.md)  
 [Accessibility](https://github.com/vlad-saling/web/blob/master/accessibility/README.md)  
 [JS](https://github.com/vlad-saling/web/blob/master/js/README.md)  
-[Tools](https://github.com/vlad-saling/web/blob/master/tools/README.md)
+[Tools](https://github.com/vlad-saling/web/blob/master/tools/README.md)  
+[Blockchain](https://github.com/vlad-saling/resources/blob/master/blockchain/README.md)  
 
 
 ## Twitter accounts
