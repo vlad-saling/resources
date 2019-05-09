@@ -1,4 +1,4 @@
-# css-knowledgebase
+# CSS
 resources and notes on css
 
 ## Reference
