@@ -46,7 +46,7 @@ list of web development related news sources, thought leaders and resources
 [https://player.fm/series/software-engineering-daily-90508](https://player.fm/series/software-engineering-daily-90508)  
 [https://player.fm/series/the-changelog](https://player.fm/series/the-changelog)  
 [https://player.fm/series/the-versioning-show](https://player.fm/series/the-versioning-show)  
-[https://player.fm/series/shoptalk-19036](https://player.fm/series/shoptalk-19036)
+[https://player.fm/series/shoptalk-19036](https://player.fm/series/shoptalk-19036)  
 [https://player.fm/series/syntax-tasty-web-development-treats-1469447](https://player.fm/series/syntax-tasty-web-development-treats-1469447)
 
 
