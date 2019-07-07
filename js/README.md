@@ -19,4 +19,7 @@
 
 [npm install options](https://docs.npmjs.com/cli/install)
 
+## Articles
+https://bdadam.com/blog/video-douglas-crockford-about-the-new-good-parts.html
+
 
