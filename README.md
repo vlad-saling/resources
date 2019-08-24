@@ -9,6 +9,7 @@ list of web development related news sources, thought leaders and resources
 [JS](https://github.com/vlad-saling/web/blob/master/js/README.md)  
 [Tools](https://github.com/vlad-saling/web/blob/master/tools/README.md)  
 [Blockchain](https://github.com/vlad-saling/resources/blob/master/blockchain/README.md)  
+[Blender](https://github.com/vlad-saling/resources/tree/master/blender)
 
 
 ## Twitter accounts
