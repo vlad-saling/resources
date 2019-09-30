@@ -9,3 +9,5 @@
 [Learn Sculpting by Creating Game Assets](https://www.youtube.com/watch?v=jRiSdYby6v8)  
 [Polygon Runway](https://www.youtube.com/channel/UCGSJevmBuDyxjLLOBNaYMGA/videos)  
 [Texture Painting Blender](https://www.youtube.com/watch?v=LcCQKuWPhXk)
+[Painting Rocks, Boulders & Building Stones | Blender 2.8 | Learn Texture Painting](https://www.youtube.com/watch?v=taFnU3yItQY)
+[Texture Painting | Blender 2.8 | Quick Start | 3 MIN](https://www.youtube.com/watch?v=u9nE2Xg6Jgk)
