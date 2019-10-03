@@ -11,3 +11,4 @@
 [Texture Painting Blender](https://www.youtube.com/watch?v=LcCQKuWPhXk)  
 [Painting Rocks, Boulders & Building Stones | Blender 2.8 | Learn Texture Painting](https://www.youtube.com/watch?v=taFnU3yItQY)  
 [Texture Painting | Blender 2.8 | Quick Start | 3 MIN](https://www.youtube.com/watch?v=u9nE2Xg6Jgk)
+[Blender 2.8 Beginner Tutorial - Part 7: Texture Painting](https://www.youtube.com/watch?v=lmbAs9jE1vI)
