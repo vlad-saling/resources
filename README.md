@@ -14,7 +14,7 @@ list of web development related news sources, thought leaders and resources
 
 ## Twitter accounts
 
-### Persons
+### People
 [https://twitter.com/jasnell](https://twitter.com/jasnell)  
 [https://twitter.com/rob_dodson](https://twitter.com/rob_dodson)  
 [https://twitter.com/jaffathecake](https://twitter.com/jaffathecake)  
