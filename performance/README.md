@@ -1,5 +1,12 @@
 # Perfomance
 
+## Tools
+Chrome Lighthouse or https://developers.google.com/speed/pagespeed/insights/  
+https://gtmetrix.com/  
+https://whatdoesmysitecost.com/  
+https://www.webpagetest.org/  
+https://tools.pingdom.com/
+
 ## Articles
 [On gzipping and minification](https://css-tricks.com/the-difference-between-minification-and-gzipping/)  
 [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
