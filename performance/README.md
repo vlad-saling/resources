@@ -14,6 +14,7 @@ https://tools.pingdom.com/
 ## Audio/Video
 [Shoptalk podcast #247: THE PERFORMANCE EQUATION ](http://shoptalkshow.com/episodes/247-performance-equation/)  
 [Patrick Hamann: CSS and the first meaningful paint](https://www.youtube.com/watch?v=4pQ2byAoIX0)
+[Smashing Podcast Episode 34 With Harry Roberts: What’s The State Of Web Performance?](https://www.smashingmagazine.com/2021/01/smashing-podcast-episode-34/)  
 
 ## Courses/tutorials
 [Browser rendering optimization course](https://www.udacity.com/course/browser-rendering-optimization--ud860)  
